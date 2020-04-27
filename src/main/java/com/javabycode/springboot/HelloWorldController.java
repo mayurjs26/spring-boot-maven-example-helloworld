@@ -5,7 +5,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 //Azure Demo
-// Demo bug1 fix
+// Demo bug2 fix
 @Controller
 public class HelloWorldController {
     @RequestMapping("/hello")
